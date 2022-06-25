@@ -9,7 +9,7 @@ This project was developed with HTML,CSS and JavaScript
 ### Clone the repo
 
 ```shell
-https://github.com/shhhcoding/javascript-calculator.git
+git clone https://github.com/shhhcoding/javascript-calculator.git
 ```
 
 ## Show your support
