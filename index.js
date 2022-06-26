@@ -110,7 +110,7 @@ resetButton.addEventListener("click", () => {
 });
 
 gitHubButton.addEventListener("click", () => {
-  window.open("https://github.com/aghayeffemin", '_blank').focus();
+  window.open("https://github.com/shhhcoding", '_blank').focus();
 });
 
 jsButton.addEventListener("click", () => {
